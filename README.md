@@ -20,7 +20,7 @@
 🎮 Aspiring Game Developer  
 🧠 Competitive Gamer (10+ Years Experience)  
 🤖 Exploring AI-generated images & animation  
-💻 RTX 4060 Powered Development Machine  
+ 
 
 > "Why play the game when you can build it?"
 
